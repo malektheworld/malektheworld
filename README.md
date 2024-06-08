@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Abd almalek AlAzm
+- 👋 Hi, I’m Abdul Malek Alazem
 - I'm a computer Engineer
-- 👀 I’m interested in web language and data science 
+- 👀 I’m a Full-Stack Developer 
 - 🌱 I’m currently learning Vue Js
 - 📫 How to reach me  malektheworld@gmail.com
 
